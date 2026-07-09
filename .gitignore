@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node/React dependencies
+node_modules/
+client/node_modules/
+dist/
+client/dist/
+
+# Large Datasets and local models
+ljspeech_dataset/
+generated_audio/
+processed_data/
+models/
+*.wav
+*.ogg
+*.mp3
+
+# Local environment configuration files
+.env
+.DS_Store
