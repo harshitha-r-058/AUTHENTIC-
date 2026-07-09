@@ -66,17 +66,17 @@ The dashboard will be available at http://localhost:5173.
 📂 Project Structure
 
 voice-deepfake-detector/
-├── client/                 # React frontend application
+├── client/                
 │   ├── src/
-│   │   ├── components/     # UI components (Dashboard, Visualizers)
-│   │   └── App.jsx         # Main React entry point
+│   │   ├── components/     
+│   │   └── App.jsx         
 │   └── package.json
-├── models/                 # Saved PyTorch model weights (.pth)
-├── scripts/                # Data processing and augmentation scripts
-│   └── preprocess.py       # LFCC extraction & codec simulation 
-├── app.py                  # FastAPI backend server
-├── train.py                # PyTorch training loop
-└── requirements.txt        # Python dependencies
+├── models/                 
+├── scripts/               
+│   └── preprocess.py     
+├── app.py                 
+├── train.py                
+└── requirements.txt        
 
 
 🧠 Model Training (Optional)
