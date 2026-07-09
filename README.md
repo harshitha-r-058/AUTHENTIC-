@@ -63,7 +63,7 @@ npm run dev
 The dashboard will be available at http://localhost:5173.
 
 
-# 📂 Project Structure
+📂 Project Structure
 
 voice-deepfake-detector/
 |
