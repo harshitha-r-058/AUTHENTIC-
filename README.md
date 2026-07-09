@@ -66,16 +66,25 @@ The dashboard will be available at http://localhost:5173.
 📂 Project Structure
 
 voice-deepfake-detector/
-├── client/                
+
+├── client/  
+
 │   ├── src/
-│   │   ├── components/     
+
+│   │   ├── components/  
+
 │   │   └── App.jsx         
 │   └── package.json
-├── models/                 
-├── scripts/               
+
+├── models/ 
+
+├── scripts/ 
+
 │   └── preprocess.py     
-├── app.py                 
-├── train.py                
+├── app.py  
+
+├── train.py
+
 └── requirements.txt        
 
 
