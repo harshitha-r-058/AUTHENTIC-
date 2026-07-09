@@ -69,11 +69,11 @@ voice-deepfake-detector/
 
 ├── client/  
 
-│   ├── src/
+    ├── src/
 
-│       ├── components/  
+        ├── components/  
 
-│       └── App.jsx
+        └── App.jsx
 
     └── package.json
 
