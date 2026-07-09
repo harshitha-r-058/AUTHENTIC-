@@ -71,17 +71,17 @@ voice-deepfake-detector/
 
 │   ├── src/
 
-│   │   ├── components/  
+│       ├── components/  
 
-│   │   └── App.jsx
+│       └── App.jsx
 
-│   └── package.json
+    └── package.json
 
 ├── models/ 
 
 ├── scripts/ 
 
-│   └── preprocess.py 
+    └── preprocess.py 
 
 ├── app.py  
 
