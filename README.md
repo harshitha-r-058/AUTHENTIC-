@@ -73,7 +73,7 @@ voice-deepfake-detector/
 │   └── package.json
 ├── models/                 # Saved PyTorch model weights (.pth)
 ├── scripts/                # Data processing and augmentation scripts
-│   └── preprocess.py       # LFCC extraction & codec simulation
+│   └── preprocess.py       # LFCC extraction & codec simulation 
 ├── app.py                  # FastAPI backend server
 ├── train.py                # PyTorch training loop
 └── requirements.txt        # Python dependencies
